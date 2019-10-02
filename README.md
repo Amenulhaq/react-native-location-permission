@@ -3,7 +3,7 @@
 
 A react Native module to enable location based services on Android and IOS.
 
-<img src="preview/previewAndroid.gif" width="200" /> <img src="preview/previewIOS.gif" width="193" />
+<img src="https://raw.githubusercontent.com/Amenulhaq/react-native-location-permission/master/preview/previewAndroid.gif" width="200" /> <img src="https://raw.githubusercontent.com/Amenulhaq/react-native-location-permission/master/preview/previewIOS.gif" width="193" />
 
 ## Requirements
 - react-native >= 0.38.0
@@ -63,7 +63,7 @@ Using Pods :
 
 1. add the following into your podfile :
    ```
-   pod 'ReactNativeAndroidLocationSwitch', :path => '../node_modules/react-native-location-permission/ios'
+   pod 'ReactNativeLocationSwitch', :path => '../node_modules/react-native-location-permission/ios'
    ```
 
 Using xcode :
