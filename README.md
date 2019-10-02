@@ -28,7 +28,7 @@ A react Native module to enable location based services on Android and IOS.
 
 4. add the "LocationSwitchPackage" import into your MainApplication.java file:
    ```java
-   import org.pweitz.reactnative.locationswitch.LocationSwitchPackage;
+   import org.amen.reactnative.locationswitch.LocationSwitchPackage;
    ```
 
 5. add the "LocationSwitchPackage" into your MainApplication.java file (getPackages method):
@@ -45,7 +45,7 @@ A react Native module to enable location based services on Android and IOS.
    ```
 6. add the "LocationSwitch" import into your MainActivity.java file:
    ```java
-   import org.pweitz.reactnative.locationswitch.LocationSwitch;
+   import org.amen.reactnative.locationswitch.LocationSwitch;
    ```
 
 7. add the following code into your MainActivity.java file:
