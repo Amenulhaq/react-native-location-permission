@@ -1,6 +1,6 @@
 {
   "name": "react-native-location-permission",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A react Native module to enable location based services on Android and IOS",
   "main": "index.js",
   "scripts": {
